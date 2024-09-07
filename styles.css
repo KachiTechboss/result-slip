@@ -56,9 +56,10 @@ padding: 100px;
      margin-top: 2rem;
     padding-bottom: 40px;
 }
-.great h3{
+.great h2{
     color:  hsl(0, 0%, 100%);
     margin-bottom: 1rem;
+    font-size: 25px;
 
 }
 .great p{
